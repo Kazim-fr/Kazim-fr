@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:14213D,100:8B0000&height=220&section=header&text=MOHD%20KAZIM%20SHEIKH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Security%20Research&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:14213D,100:8B0000&height=220&section=header&text=KAZIM%20SHEIKH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Security%20Research&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com/">
