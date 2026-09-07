@@ -309,19 +309,6 @@ A web-based platform designed to streamline interactions between students and pl
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Kazim-fr">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazim-fr&bg_color=0B0F19&color=FFFFFF&line=8B0000&point=FFFFFF&area_color=14213D&area=true&hide_border=true&custom_title=Kazim%27s%20Contribution%20Activity"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazim-fr&theme=github_dark" width="95%"/>
-
-</div>
 
 ---
 
