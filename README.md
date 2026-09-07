@@ -289,28 +289,6 @@ A web-based platform designed to streamline interactions between students and pl
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Kazim-fr">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kazim-fr&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=FFFFFF&text_color=B8C1D1&icon_color=8B0000&ring_color=8B0000&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/Kazim-fr">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazim-fr&layout=compact&hide_border=true&bg_color=0B0F19&title_color=FFFFFF&text_color=B8C1D1&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Kazim-fr&hide_border=true&background=0B0F19&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF&sideLabels=B8C1D1&dates=718096&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-
----
 
 ## Current Focus
 
